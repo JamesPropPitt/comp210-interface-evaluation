@@ -122,7 +122,7 @@ last_updated{
     margin: 30px auto;
     position: relative;
     overflow: auto;
-    padding-bottom: 0px;
+    padding-bottom: 10px;
 }
 header{
   width:100%;
