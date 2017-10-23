@@ -104,6 +104,8 @@ last_updated{
     position: relative;
     overflow: auto;
     padding-bottom: 0px;
+    min-height:800px;
+    min-width:800px;
 }
 header{
   width:100%;
@@ -112,7 +114,8 @@ header{
 }
 .content{
   width:100%;
-  min-height:400px;
+  min-height:800px;
+  min-width:800px;
 }
 aside{
   width:30%;
