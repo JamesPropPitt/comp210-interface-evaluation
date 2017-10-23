@@ -104,7 +104,7 @@ last_updated{
     background: #000066;
     margin: 0px auto;
     position: relative;
-    overflow: hidden;
+    overflow: auto;
     padding-bottom: 0px;
     min-height:800px;
     min-width:800px;
