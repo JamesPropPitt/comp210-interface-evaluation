@@ -143,7 +143,7 @@ nav ul li a{
 }
 nav ul li a.selected{
   text-decoration: underline;
-  background: #888;
+  background:#a0efff;
 }
 nav ul li a:hover{
   background: #888;
