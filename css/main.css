@@ -39,7 +39,7 @@
  }
  body {
  	line-height: 1.5;
-  overflow-y: scroll;
+  overflow-y: hidden;
   overflow-x: hidden;
   padding-bottom:0px
  }
@@ -102,9 +102,9 @@ last_updated{
 .main-container {
     width: 1920px;
     background: #000066;
-    margin: 30px auto;
+    margin: 0px auto;
     position: relative;
-    overflow: auto;
+    overflow: hidden;
     padding-bottom: 0px;
     min-height:800px;
     min-width:800px;
