@@ -86,7 +86,7 @@ h3{
     font-family: 'Courier New';
 }
 h4{
-    font-size: 4em;
+    font-size: 2em;
     padding: 1px;
     color: anitquewhite;
     background-color: #0099cc;
@@ -124,12 +124,15 @@ aside{
   min-height: 300px;
   float:left;
   background:#abc6cc;
+  align: center;
 }
 nav ul{
   margin:10px;
+  align: center;
 }
 nav ul li{
   margin:5px;
+  align: center;
 }
 nav ul li a{
   display:block;
@@ -140,6 +143,7 @@ nav ul li a{
   line-height: 60px;
   text-align: center;
   text-decoration: none;
+  align: center;
 }
 nav ul li a.selected{
   text-decoration: underline;
