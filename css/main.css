@@ -159,6 +159,13 @@ section {
     float: right;
     margin: 10px;
 }
+section2 {
+	width: 65%;
+	min-height: 50px;
+	background-color: #336699;
+	float: right;
+	margin: 10px;
+}
 footer{
   clear: both;
   width:100%;
@@ -171,4 +178,7 @@ footer{
 mark {
     background-color: #adadad;
     color: #a0efff;
+}
+.img_container{
+	float left;
 }
