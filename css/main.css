@@ -70,27 +70,38 @@ h1{
   font-weight: bold;
   padding:0px;
   font-weight:bold;
-  text-align: center
+  text-align: center;
+  color: #fff;
+  background-color: #ffd6fb;
+  text-shadow: -2px -2px 0 #e27738,  
+     2px -2px 0 #e27738,
+    -2px  2px 0 #e27738,
+     2px  2px 0 #e27738;
 }
 h2 {
     font-size: 1.4em;
     padding: 4px;
     color: whitesmoke;
-    background-color: #0099cc;
+    background-color: #ffd6fb;
 }
 h3{
     font-size: 1.2em;
     padding: 4px;
     color: antiquewhite;
-    background-color: #0099cc;
+    background-color: #ffd6fb;
     font-family: 'Courier New';
 }
 h4{
     font-size: 2em;
     padding: 1px;
-    color: anitquewhite;
-    background-color: #0099cc;
+    color:#ffffff;
+    background-color: #ffb7fd;
     font-family: 'Oswald';
+	text-shadow:
+    -2px -2px 0 #e27738,  
+     2px -2px 0 #e27738,
+    -2px  2px 0 #e27738,
+     2px  2px 0 #e27738;
 }
 last_updated{
     text-align:right;
@@ -101,7 +112,7 @@ last_updated{
 }
 .main-container {
     width: 1920px;
-    background: ##ffd8fc;
+    background: #ffd6fb;
     margin: 0px auto;
     position: relative;
     overflow: auto;
@@ -112,7 +123,7 @@ last_updated{
 header{
   width:100%;
   height:100px;
-  background: #abc6cc;
+  background: #ffd6fb;
 }
 .content{
   width:100%;
@@ -123,7 +134,7 @@ aside{
   width:30%;
   min-height: 300px;
   float:left;
-  background:#abc6cc;
+  background:#ffb7fd;
   align: center;
 }
 nav ul{
@@ -138,12 +149,18 @@ nav ul li a{
   display:block;
   width: 90%;
   height:60px;
-  background-color: #000000;
+  background-color: #ffb7fd;
   color:#ffffff;
   line-height: 60px;
   text-align: center;
   text-decoration: none;
   align: center;
+  text-shadow:
+    -2px -2px 0 #e27738,  
+     2px -2px 0 #e27738,
+    -2px  2px 0 #e27738,
+     2px  2px 0 #e27738;
+  font-size:2.0em;
 }
 nav ul li a.selected{
   text-decoration: underline;
@@ -155,14 +172,14 @@ nav ul li a:hover{
 section {
     width: 65%;
     min-height: 300px;
-    background-color: #336699;
+    background-color: #ffb7fd;
     float: right;
     margin: 10px;
 }
 section2 {
 	width: 65%;
 	min-height: 50px;
-	background-color: #336699;
+	background-color: #ffb7fd;
 	float: right;
 	margin: 10px;
 }
