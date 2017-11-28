@@ -1,0 +1,1467 @@
+﻿Log file open, 11/22/17 13:29:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Lightstar
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1090501093) SRandInit(1090501093).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185025
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.22-13.29.34:333][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.22-13.29.34:333][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.22-13.29.34:357][  0]LogInit: Computer: 052TGADS-60421
+[2017.11.22-13.29.34:357][  0]LogInit: User: jp187238
+[2017.11.22-13.29.34:357][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.22-13.29.34:357][  0]LogInit: High frequency timer resolution =2.929688 MHz
+[2017.11.22-13.29.34:357][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.11.22-13.29.34:357][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.22-13.29.34:357][  0]LogMemory: Process Physical Memory: 277.53 MB used, 277.53 MB peak
+[2017.11.22-13.29.34:357][  0]LogMemory: Process Virtual Memory: 273.83 MB used, 273.83 MB peak
+[2017.11.22-13.29.34:357][  0]LogMemory: Physical Memory: 6557.08 MB used,  1535.02 MB free, 8092.10 MB total
+[2017.11.22-13.29.34:357][  0]LogMemory: Virtual Memory: 667.91 MB used,  1535.02 MB free, 134217728.00 MB total
+[2017.11.22-13.29.34:955][  0]LogInit: Using OS detected language (en-US).
+[2017.11.22-13.29.34:955][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.22-13.29.35:016][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.22-13.29.37:831][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.22-13.29.37:882][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2017.11.22-13.29.37:882][  0]LogD3D11RHI:       4048/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.22-13.29.37:889][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2017.11.22-13.29.37:889][  0]LogD3D11RHI:       128/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.22-13.29.37:891][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.22-13.29.37:891][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.22-13.29.37:891][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.22-13.29.37:898][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.22-13.29.37:898][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.22-13.29.37:898][  0]LogWindows: EnumDisplayDevices:
+[2017.11.22-13.29.37:898][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2017.11.22-13.29.37:898][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.11.22-13.29.37:898][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.11.22-13.29.37:899][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.11.22-13.29.37:899][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.11.22-13.29.37:899][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.11.22-13.29.37:899][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.11.22-13.29.37:899][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.11.22-13.29.37:899][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2017.11.22-13.29.37:899][  0]LogD3D11RHI:   Driver Version: 382.66 (internal:22.21.13.8266, unified:382.66)
+[2017.11.22-13.29.37:899][  0]LogD3D11RHI:      Driver Date: 6-25-2017
+[2017.11.22-13.29.37:899][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.22-13.29.37:930][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.22-13.29.37:941][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.22-13.29.37:943][  0]LogShaderCompilers: Guid format shader working directory is 26 characters bigger than the processId version (D:/Lightstar/Lightstar/Intermediate/Shaders/WorkingDirectory/14884/).
+[2017.11.22-13.29.37:943][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jp187238/AppData/Local/Temp/UnrealShaderWorkingDir/41814EA0406A9F3CA4AD84B76E3C94BD/'.
+[2017.11.22-13.29.37:943][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.22-13.29.40:186][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.22-13.29.40:332][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.22-13.29.40:492][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.22-13.29.40:637][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.22-13.29.40:797][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.22-13.29.40:943][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.22-13.29.41:088][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.22-13.29.41:248][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.22-13.29.41:389][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.22-13.29.41:547][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.22-13.29.41:689][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.22-13.29.41:834][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.22-13.29.41:982][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.22-13.29.42:124][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.22-13.29.42:284][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.22-13.29.42:579][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.22-13.29.42:579][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.22-13.29.42:718][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.22-13.29.42:971][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.22-13.29.43:062][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.22-13.29.43:206][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.22-13.29.43:359][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.22-13.29.43:508][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.22-13.29.43:662][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.22-13.29.43:662][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.22-13.29.45:375][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.22-13.29.45:574][  0]LogDerivedDataCache: Loaded boot cache 0.20s 93MB C:/Users/jp187238/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.22-13.29.45:574][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jp187238/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.22-13.29.45:575][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Lightstar/Lightstar/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.22-13.29.45:575][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.22-13.29.45:575][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Lightstar/Lightstar/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.22-13.29.45:575][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.22-13.29.45:589][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.22-13.29.45:601][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jp187238/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.22-13.29.45:646][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.22-13.29.45:646][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.22-13.29.45:870][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.22-13.29.45:870][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.22-13.29.46:632][  0]LogAssetRegistry: FAssetRegistry took 0.0303 seconds to start up
+[2017.11.22-13.29.46:837][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.22-13.29.47:009][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.22-13.29.47:055][  0]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2017.11.22-13.32.57:770][  0]LogMaterial: Missing cached shader map for material DefaultDeferredDecalMaterial, compiling. 
+[2017.11.22-13.33.16:653][  0]LogMaterial: Missing cached shader map for material DefaultLightFunctionMaterial, compiling. 
+[2017.11.22-13.33.19:209][  0]LogMaterial: Missing cached shader map for material DefaultPostProcessMaterial, compiling. 
+[2017.11.22-13.33.21:151][  0]LogMaterial: Missing cached shader map for material SnapGridMaterial, compiling. 
+[2017.11.22-13.33.21:167][  0]LogMaterial: Missing cached shader map for material TransformGizmoMaterial, compiling. 
+[2017.11.22-13.33.22:039][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.22-13.33.22:190][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.22-13.33.22:190][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.22-13.33.22:190][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.22-13.33.22:190][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.22-13.33.22:190][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.22-13.33.22:214][  0]LogMaterial: Missing cached shader map for material TranslucentTransformGizmoMaterial, compiling. 
+[2017.11.22-13.33.22:260][  0]LogMaterial: Missing cached shader map for material Main, compiling. 
+[2017.11.22-13.33.22:276][  0]LogMaterial: Missing cached shader map for material Xray, compiling. 
+[2017.11.22-13.33.22:301][  0]LogMaterial: Missing cached shader map for material CineMat, compiling. 
+[2017.11.22-13.33.22:353][  0]LogMaterial: Missing cached shader map for material MatineeCam_mat, compiling. 
+[2017.11.22-13.33.22:380][  0]LogMaterial: Missing cached shader map for material M_SimpleOpaque, compiling. 
+[2017.11.22-13.33.22:402][  0]LogMaterial: Missing cached shader map for material M_SimpleTranslucent, compiling. 
+[2017.11.22-13.33.22:726][  0]LogMaterial: Missing cached shader map for material SkySphereMaterial, compiling. 
+[2017.11.22-13.33.22:738][  0]LogMaterial: Missing cached shader map for material FloorPlaneMaterial, compiling. 
+[2017.11.22-13.33.22:850][  0]LogMaterial: Missing cached shader map for material LandscapeGizmo_Mat, compiling. 
+[2017.11.22-13.33.22:873][  0]LogMaterial: Missing cached shader map for material LandscapeGizmoHeight_Mat, compiling. 
+[2017.11.22-13.33.22:914][  0]LogMaterial: Missing cached shader map for material SplineEditorMeshMat, compiling. 
+[2017.11.22-13.33.22:938][  0]LogNetVersion: Lightstar , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3437755714)
+[2017.11.22-13.33.22:965][  0]LogMaterial: Missing cached shader map for material HelpActorMaterial, compiling. 
+[2017.11.22-13.33.23:075][  0]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2017.11.22-13.33.23:442][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.056125 seconds
+[2017.11.22-13.33.23:448][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.22-13.33.23:448][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.22-13.33.23:448][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.22-13.33.23:723][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.22-13.33.28:983][  0]LogMaterial: Missing cached shader map for material VivePreControllerMaterial, compiling. 
+[2017.11.22-13.33.28:999][  0]LogMaterial: Missing cached shader map for material OculusControllerMaterial, compiling. 
+[2017.11.22-13.33.29:013][  0]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2017.11.22-13.33.29:025][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2017.11.22-13.33.29:038][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2017.11.22-13.33.29:057][  0]LogMaterial: Missing cached shader map for material TeleportDirectionMaterial, compiling. 
+[2017.11.22-13.33.29:087][  0]LogMaterial: Missing cached shader map for material GridPostProcess, compiling. 
+[2017.11.22-13.33.29:113][  0]LogMaterial: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2017.11.22-13.33.29:128][  0]LogMaterial: Missing cached shader map for material KeyDiskMaterial, compiling. 
+[2017.11.22-13.33.29:142][  0]LogMaterial: Missing cached shader map for material M_ContentWindow, compiling. 
+[2017.11.22-13.33.29:169][  0]LogMaterial: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2017.11.22-13.33.29:183][  0]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2017.11.22-13.33.29:207][  0]LogMaterial: Missing cached shader map for material LineMaterial, compiling. 
+[2017.11.22-13.33.32:403][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.22-13.33.32:533][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.22-13.33.33:457][  0]LogMaterial: Missing cached shader map for material DefaultMaterial, compiling. 
+[2017.11.22-13.33.34:566][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2017.11.22-13.33.34:575][  0]LogMaterial: Missing cached shader map for material CustomDepth, compiling. 
+[2017.11.22-13.33.34:605][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.22-13.33.34:609][  0]LogMaterial: Missing cached shader map for material CustomStencil, compiling. 
+[2017.11.22-13.33.34:618][  0]LogMaterial: Missing cached shader map for material FinalImage, compiling. 
+[2017.11.22-13.33.34:626][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2017.11.22-13.33.34:635][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2017.11.22-13.33.34:643][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2017.11.22-13.33.34:652][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2017.11.22-13.33.34:661][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2017.11.22-13.33.34:671][  0]LogMaterial: Missing cached shader map for material SceneColor, compiling. 
+[2017.11.22-13.33.34:681][  0]LogMaterial: Missing cached shader map for material SceneDepth, compiling. 
+[2017.11.22-13.33.34:690][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyRGB, compiling. 
+[2017.11.22-13.33.34:698][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyA, compiling. 
+[2017.11.22-13.33.34:707][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2017.11.22-13.33.34:716][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2017.11.22-13.33.34:725][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2017.11.22-13.33.34:736][  0]LogMaterial: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2017.11.22-13.33.34:752][  0]LogMaterial: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2017.11.22-13.33.34:762][  0]LogMaterial: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2017.11.22-13.33.34:771][  0]LogMaterial: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2017.11.22-13.33.34:781][  0]LogMaterial: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2017.11.22-13.33.36:009][  0]SourceControl: Source control is disabled
+[2017.11.22-13.33.36:009][  0]SourceControl: Source control is disabled
+[2017.11.22-13.33.36:178][  0]SourceControl: Source control is disabled
+[2017.11.22-13.33.36:343][  0]SourceControl: Source control is disabled
+[2017.11.22-13.33.38:475][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.22-13.33.39:336][  0]LogOcInput: OculusInput pre-init called
+[2017.11.22-13.33.40:147][  0]LogMaterial: Missing cached shader map for material HighResScreenshot, compiling. 
+[2017.11.22-13.33.40:162][  0]LogMaterial: Missing cached shader map for material HighResScreenshotMask, compiling. 
+[2017.11.22-13.33.40:178][  0]LogMaterial: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2017.11.22-13.33.40:201][  0]LogEngine: Initializing Engine...
+[2017.11.22-13.33.40:234][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2017.11.22-13.33.40:239][  0]LogMaterial: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2017.11.22-13.33.40:450][  0]LogMaterial: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2017.11.22-13.33.40:963][  0]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2017.11.22-13.33.41:123][  0]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2017.11.22-13.33.41:602][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2017.11.22-13.33.42:084][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2017.11.22-13.33.42:238][  0]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2017.11.22-13.33.42:296][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2017.11.22-13.33.42:313][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2017.11.22-13.33.42:329][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2017.11.22-13.33.42:344][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2017.11.22-13.33.42:360][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2017.11.22-13.33.42:374][  0]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2017.11.22-13.33.42:382][  0]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2017.11.22-13.33.42:397][  0]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2017.11.22-13.33.42:433][  0]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2017.11.22-13.33.42:448][  0]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2017.11.22-13.33.42:464][  0]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2017.11.22-13.33.42:481][  0]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2017.11.22-13.33.42:496][  0]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2017.11.22-13.33.42:562][  0]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2017.11.22-13.33.42:576][  0]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2017.11.22-13.33.42:594][  0]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2017.11.22-13.33.42:609][  0]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2017.11.22-13.33.42:734][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.22-13.33.42:734][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.22-13.33.43:826][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.22-13.33.43:905][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-13.33.44:035][  0]LogInit: FAudioDevice initialized.
+[2017.11.22-13.33.45:307][  0]LogDerivedDataCache: Saved boot cache 1.27s 97MB C:/Users/jp187238/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.22-13.33.45:323][  0]LogInit: Texture streaming: Enabled
+[2017.11.22-13.33.46:293][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.22-13.33.47:524][  0]LogInit: Transaction tracking system initialized
+[2017.11.22-13.33.49:088][  0]BlueprintLog: New page: Editor Load
+[2017.11.22-13.33.52:820][  0]LocalizationService: Localization service is disabled
+[2017.11.22-13.33.55:471][  0]LogConsoleResponse: Display: 
+[2017.11.22-13.33.55:583][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2017.11.22-13.33.55:598][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2017.11.22-13.33.55:612][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2017.11.22-13.33.55:624][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2017.11.22-13.33.55:636][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2017.11.22-13.33.55:651][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2017.11.22-13.33.55:669][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2017.11.22-13.33.55:686][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2017.11.22-13.33.55:706][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2017.11.22-13.33.55:719][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2017.11.22-13.33.55:749][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2017.11.22-13.33.55:762][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2017.11.22-13.33.55:773][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2017.11.22-13.33.55:821][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2017.11.22-13.33.55:873][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2017.11.22-13.33.55:914][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2017.11.22-13.33.55:946][  0]LogFileCache: Scanning file cache for directory 'D:/Lightstar/Lightstar/Content/' took 0.01s
+[2017.11.22-13.33.55:946][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.22-13.33.55:947][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.22-13.33.55:947][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.22-13.33.59:884][  0]SourceControl: Source control is disabled
+[2017.11.22-13.33.59:897][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.17/FeaturePacks/StarterContent.upack)
+[2017.11.22-13.34.00:073][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.11.22-13.34.00:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.11.22-13.34.00:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.11.22-13.34.00:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.11.22-13.34.00:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.11.22-13.34.00:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.11.22-13.34.00:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.11.22-13.34.00:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.11.22-13.34.00:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.11.22-13.34.00:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.11.22-13.34.00:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.11.22-13.34.00:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.11.22-13.34.00:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.11.22-13.34.00:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.11.22-13.34.00:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.11.22-13.34.00:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.11.22-13.34.00:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.11.22-13.34.00:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.11.22-13.34.00:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Fire01.uasset"
+[2017.11.22-13.34.00:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.11.22-13.34.00:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.11.22-13.34.00:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.11.22-13.34.00:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Light01.uasset"
+[2017.11.22-13.34.00:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.11.22-13.34.00:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Light02.uasset"
+[2017.11.22-13.34.00:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.11.22-13.34.01:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.11.22-13.34.01:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.11.22-13.34.01:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.11.22-13.34.01:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.11.22-13.34.01:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.11.22-13.34.01:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.11.22-13.34.01:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.11.22-13.34.01:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.11.22-13.34.01:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Steam01.uasset"
+[2017.11.22-13.34.01:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.11.22-13.34.01:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.11.22-13.34.01:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.11.22-13.34.01:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.11.22-13.34.01:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.11.22-13.34.01:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.11.22-13.34.01:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.11.22-13.34.01:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.11.22-13.34.01:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.11.22-13.34.01:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.11.22-13.34.01:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.11.22-13.34.01:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.11.22-13.34.01:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.11.22-13.34.02:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.11.22-13.34.02:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.11.22-13.34.02:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.11.22-13.34.02:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.11.22-13.34.02:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.11.22-13.34.03:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/Lightstar/Lightstar/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.11.22-13.34.03:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2017.11.22-13.34.03:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/Lightstar/Lightstar/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.11.22-13.34.03:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2017.11.22-13.34.03:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/Lightstar/Lightstar/Content/StarterContent/Maps/StarterMap.umap"
+[2017.11.22-13.34.03:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2017.11.22-13.34.03:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.11.22-13.34.03:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.11.22-13.34.03:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.11.22-13.34.03:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.11.22-13.34.04:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.11.22-13.34.04:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.11.22-13.34.04:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.11.22-13.34.04:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.11.22-13.34.04:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.11.22-13.34.04:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.11.22-13.34.04:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.11.22-13.34.04:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.11.22-13.34.04:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.11.22-13.34.04:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.11.22-13.34.04:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.11.22-13.34.04:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.11.22-13.34.04:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.11.22-13.34.04:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.11.22-13.34.04:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.11.22-13.34.04:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.11.22-13.34.04:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.11.22-13.34.04:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.11.22-13.34.04:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.11.22-13.34.04:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.11.22-13.34.04:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.11.22-13.34.04:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.11.22-13.34.04:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.11.22-13.34.04:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.11.22-13.34.04:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.11.22-13.34.04:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.11.22-13.34.04:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.11.22-13.34.04:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.11.22-13.34.05:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.11.22-13.34.05:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.11.22-13.34.05:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.11.22-13.34.05:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.11.22-13.34.05:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.11.22-13.34.05:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.11.22-13.34.05:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.11.22-13.34.05:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.11.22-13.34.05:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.11.22-13.34.05:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.11.22-13.34.05:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.11.22-13.34.05:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.11.22-13.34.05:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.11.22-13.34.05:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.11.22-13.34.05:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.11.22-13.34.05:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.11.22-13.34.05:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.11.22-13.34.05:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.11.22-13.34.05:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.11.22-13.34.05:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.11.22-13.34.05:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.11.22-13.34.05:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.11.22-13.34.05:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.11.22-13.34.05:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.11.22-13.34.06:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.11.22-13.34.06:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.11.22-13.34.06:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.11.22-13.34.06:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.11.22-13.34.06:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.11.22-13.34.06:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.11.22-13.34.06:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.11.22-13.34.06:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.11.22-13.34.06:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_Door.uasset"
+[2017.11.22-13.34.06:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.11.22-13.34.06:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.11.22-13.34.06:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.11.22-13.34.06:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.11.22-13.34.06:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.11.22-13.34.06:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.11.22-13.34.06:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.11.22-13.34.06:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.11.22-13.34.06:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.11.22-13.34.06:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.11.22-13.34.06:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.11.22-13.34.06:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.11.22-13.34.06:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.11.22-13.34.06:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.11.22-13.34.06:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.11.22-13.34.06:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.11.22-13.34.06:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.11.22-13.34.06:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.11.22-13.34.06:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.11.22-13.34.06:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.11.22-13.34.06:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.11.22-13.34.06:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.11.22-13.34.06:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.11.22-13.34.06:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.11.22-13.34.06:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.11.22-13.34.06:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.11.22-13.34.06:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.11.22-13.34.06:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.11.22-13.34.06:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.11.22-13.34.07:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.11.22-13.34.07:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.11.22-13.34.07:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.11.22-13.34.07:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.11.22-13.34.07:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.11.22-13.34.07:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.11.22-13.34.07:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.11.22-13.34.07:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.11.22-13.34.07:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.11.22-13.34.07:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.11.22-13.34.07:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.11.22-13.34.07:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.11.22-13.34.07:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.11.22-13.34.07:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.11.22-13.34.07:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.11.22-13.34.07:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.11.22-13.34.07:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.11.22-13.34.08:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.11.22-13.34.08:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.11.22-13.34.08:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.11.22-13.34.08:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.11.22-13.34.08:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.11.22-13.34.08:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.11.22-13.34.08:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.11.22-13.34.09:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.11.22-13.34.09:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.11.22-13.34.09:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.11.22-13.34.10:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.11.22-13.34.10:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.11.22-13.34.10:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.11.22-13.34.10:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.11.22-13.34.10:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.11.22-13.34.10:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.11.22-13.34.10:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.11.22-13.34.10:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.11.22-13.34.10:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.11.22-13.34.11:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.11.22-13.34.11:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.11.22-13.34.11:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.11.22-13.34.11:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.11.22-13.34.11:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.11.22-13.34.12:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.11.22-13.34.12:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.11.22-13.34.12:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.11.22-13.34.12:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.11.22-13.34.13:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.11.22-13.34.13:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.11.22-13.34.13:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.11.22-13.34.13:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.11.22-13.34.13:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.11.22-13.34.14:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.11.22-13.34.14:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.11.22-13.34.14:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.11.22-13.34.14:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.11.22-13.34.14:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.11.22-13.34.14:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.11.22-13.34.14:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.11.22-13.34.14:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.11.22-13.34.14:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.11.22-13.34.14:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.11.22-13.34.14:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.11.22-13.34.14:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.11.22-13.34.14:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.11.22-13.34.14:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.11.22-13.34.15:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.11.22-13.34.15:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.11.22-13.34.16:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.11.22-13.34.16:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.11.22-13.34.16:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.11.22-13.34.16:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.11.22-13.34.17:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.11.22-13.34.17:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.11.22-13.34.17:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.11.22-13.34.18:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.11.22-13.34.18:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.11.22-13.34.18:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.11.22-13.34.19:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.11.22-13.34.19:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.11.22-13.34.19:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.11.22-13.34.19:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.11.22-13.34.19:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.11.22-13.34.20:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.11.22-13.34.20:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.11.22-13.34.20:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.11.22-13.34.21:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.11.22-13.34.21:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.11.22-13.34.21:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.11.22-13.34.21:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.11.22-13.34.21:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.11.22-13.34.22:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.11.22-13.34.22:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.11.22-13.34.22:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.11.22-13.34.23:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.11.22-13.34.23:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.11.22-13.34.23:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.11.22-13.34.23:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.11.22-13.34.23:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.11.22-13.34.23:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.11.22-13.34.23:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.11.22-13.34.23:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.11.22-13.34.24:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.11.22-13.34.24:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.11.22-13.34.24:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.11.22-13.34.24:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.11.22-13.34.24:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.11.22-13.34.24:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.11.22-13.34.24:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.11.22-13.34.24:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.11.22-13.34.24:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.11.22-13.34.24:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.11.22-13.34.25:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.11.22-13.34.25:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.11.22-13.34.25:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.11.22-13.34.25:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.11.22-13.34.25:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.11.22-13.34.25:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.11.22-13.34.25:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.11.22-13.34.25:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/Lightstar/Lightstar/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.11.22-13.34.25:965][  0]LogMaterial: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2017.11.22-13.34.25:999][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2017.11.22-13.34.26:007][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2017.11.22-13.34.26:238][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 26 NumSamples 1 (Frame:1).
+[2017.11.22-13.34.26:515][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/Lightstar/Lightstar/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2017.11.22-13.34.26:546][  0]LogSavePackage: Save=22.36ms
+[2017.11.22-13.34.26:546][  0]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/Floor_400x400DF1A437E4E74BE35CCD34FBCD616A18C.tmp' to 'D:/Lightstar/Lightstar/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.11.22-13.34.26:556][  0]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.11.22-13.34.26:556][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2017.11.22-13.34.26:561][  0]Cmd: MAP LOAD FILE="D:/Lightstar/Lightstar/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.22-13.34.26:566][  0]LightingResults: New page: Lighting Build
+[2017.11.22-13.34.26:737][  0]MapCheck: New page: Map Check
+[2017.11.22-13.34.26:738][  0]LightingResults: New page: Lighting Build
+[2017.11.22-13.34.27:206][  0]LogAIModule: Creating AISystem for world StartupMap
+[2017.11.22-13.34.27:268][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.22-13.34.27:280][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.22-13.34.27:369][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.937ms to complete.
+[2017.11.22-13.34.27:369][  0]LogFileHelpers: Loading map 'StartupMap' took 0.808
+[2017.11.22-13.34.27:930][  0]LogCollectionManager: Loaded 0 collections in 0.001905 seconds
+[2017.11.22-13.34.28:161][  0]LogFileCache: Scanning file cache for directory 'D:/Lightstar/Lightstar/Saved/Collections/' took 0.01s
+[2017.11.22-13.34.28:161][  0]LogFileCache: Scanning file cache for directory 'D:/Lightstar/Lightstar/Content/Developers/jp187238/Collections/' took 0.01s
+[2017.11.22-13.34.28:161][  0]LogFileCache: Scanning file cache for directory 'D:/Lightstar/Lightstar/Content/Collections/' took 0.01s
+[2017.11.22-13.34.28:161][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.22-13.34.28:174][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2386 classes and 500 folders.
+[2017.11.22-13.34.28:446][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.11.22-13.34.28:899][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.11.22-13.34.29:093][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.11.22-13.34.29:221][  0]LogSlate: Took 0.006813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.22-13.34.29:229][  0]LogSlate: Took 0.006124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.22-13.34.29:259][  0]LogSlate: Took 0.022175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.22-13.34.29:416][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2017.11.22-13.34.29:431][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2017.11.22-13.34.29:518][  0]LogSlate: Took 0.007921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.22-13.34.31:395][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.11.22-13.34.31:396][  0]LogLoad: (Engine Initialization) Total time: 300.28 seconds
+[2017.11.22-13.34.31:396][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.22-13.34.31:396][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.22-13.34.31:407][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.22-13.34.31:491][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.22-13.34.31:573][  1]LogAssetRegistry: Asset discovery search completed in 284.9623 seconds
+[2017.11.22-13.34.31:575][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.22-13.34.31:575][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2017.11.22-13.35.53:976][600]LogSlate: Took 0.004825 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.22-13.35.54:150][600]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2017.11.22-13.35.54:155][600]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.35.54:290][600]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.35.54:356][600]LogSlate: Took 0.019897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.22-13.36.01:670][ 96]MaterialEditorStats: Base pass shader: 124 instructions
+[2017.11.22-13.36.01:670][ 96]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.36.01:670][ 96]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.36.04:183][198]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.36.04:195][198]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.22-13.36.10:109][854]MaterialEditorStats: Base pass shader: 124 instructions
+[2017.11.22-13.36.10:109][854]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.36.10:109][854]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.36.23:776][296]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.36.23:793][296]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.22-13.36.30:164][824]MaterialEditorStats: Base pass shader: 124 instructions
+[2017.11.22-13.36.30:165][824]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.36.30:165][824]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.36.31:916][825]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.36.34:747][124]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.36.34:761][124]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.22-13.36.36:938][176]MaterialEditorStats: Base pass shader: 124 instructions
+[2017.11.22-13.36.36:938][176]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.36.36:938][176]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.36.50:163][635]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.36.50:246][636]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.11.22-13.36.52:785][766]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.37.00:987][633]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.37.05:580][148]MaterialEditorStats: Base pass shader: 124 instructions
+[2017.11.22-13.37.05:580][148]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.37.05:580][148]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.37.25:461][377]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.37.28:325][690]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.37.28:337][690]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.37.31:310][ 18]MaterialEditorStats: Base pass shader: 124 instructions
+[2017.11.22-13.37.31:310][ 18]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.37.31:310][ 18]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.37.33:902][ 20]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.37.42:348][842]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.37.45:478][183]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.37.49:563][413]MaterialEditorStats: Base pass shader: 124 instructions
+[2017.11.22-13.37.49:563][413]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.37.49:563][413]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.37.51:878][499]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.37.53:321][651]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.37.57:756][133]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.37.59:413][311]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.38.03:639][780]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.38.04:953][925]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.38.07:421][199]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.38.12:865][397]MaterialEditorStats: Base pass shader: 124 instructions
+[2017.11.22-13.38.12:865][397]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.38.12:866][397]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.38.17:216][649]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.38.19:853][944]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.38.23:741][ 44]MaterialEditorStats: Base pass shader: 125 instructions
+[2017.11.22-13.38.23:741][ 44]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.38.23:741][ 44]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.38.28:910][302]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.38.41:956][713]MaterialEditorStats: Base pass shader: 125 instructions
+[2017.11.22-13.38.41:956][713]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.38.41:956][713]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.38.49:680][285]LogMaterialEditor: Applying material LightSaberLight
+[2017.11.22-13.38.51:415][285]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.38.51:458][285]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.38.51:478][285]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.38.51:510][285]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LightSaberLight, compiling. 
+[2017.11.22-13.38.54:593][285]TextureStreamingBuild: Display: Compiling optional shaders took 3.089 seconds.
+[2017.11.22-13.38.56:044][300]LogMaterialEditor: Saving and Compiling material LightSaberLight
+[2017.11.22-13.42.50:272][300]LogSlate: Took 0.006194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.22-13.42.50:916][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LightSaberLight" FILE="D:/Lightstar/Lightstar/Content/LightSaberLight.uasset" SILENT=true
+[2017.11.22-13.42.50:935][300]LogSavePackage: Save=12.24ms
+[2017.11.22-13.42.50:935][300]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/LightSaberLight7C1E0D184C48E0AA2707DDBD08BCDDBF.tmp' to 'D:/Lightstar/Lightstar/Content/LightSaberLight.uasset'
+[2017.11.22-13.42.50:936][300]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Content/LightSaberLight.uasset
+[2017.11.22-13.42.50:944][300]MaterialEditorStats: Base pass shader: 125 instructions
+[2017.11.22-13.42.50:944][300]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.42.50:944][300]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.22-13.43.36:799][771]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/jp187238/Downloads/weapon_lightsaber.FBX)
+[2017.11.22-13.43.36:898][771]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.22-13.43.36:898][771]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.22-13.43.36:898][771]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.22-13.43.36:898][771]LogFbx: ItemName: Model, ItemCount : 3
+[2017.11.22-13.43.36:898][771]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2017.11.22-13.43.36:898][771]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.22-13.43.36:898][771]LogFbx: ItemName: Material, ItemCount : 2
+[2017.11.22-13.43.36:898][771]LogFbx: ItemName: Deformer, ItemCount : 2
+[2017.11.22-13.43.36:899][771]LogFbx: ItemName: Pose, ItemCount : 1
+[2017.11.22-13.43.36:912][771]LogFbx: Loading FBX Scene from ../../../../../../Users/jp187238/Downloads/weapon_lightsaber.FBX
+[2017.11.22-13.43.36:936][771]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.22-13.43.40:269][771]LogFbx: Loading FBX Scene from ../../../../../../Users/jp187238/Downloads/weapon_lightsaber.FBX
+[2017.11.22-13.43.40:276][771]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.22-13.43.40:277][771]LogFbx: =================================================
+[2017.11.22-13.43.40:277][771]LogFbx: Dumping Node START [weapon] 
+[2017.11.22-13.43.40:277][771]LogFbx: 	Total Deformer Count 562284656.
+[2017.11.22-13.43.40:277][771]LogFbx: 		[Node 1]  (Type Skin).
+[2017.11.22-13.43.40:277][771]LogFbx: =================================================
+[2017.11.22-13.43.40:277][771]LogFbx: 	Attribute (weapon) Type (4).
+[2017.11.22-13.43.40:277][771]LogFbx: 		[Node Attribute Child 1] weapon (Type Mesh).
+[2017.11.22-13.43.40:277][771]LogFbx: Dumping Node END [weapon]
+[2017.11.22-13.43.40:277][771]LogFbx: =================================================
+[2017.11.22-13.43.40:277][771]LogFbx: Dumping Node START [weapon] 
+[2017.11.22-13.43.40:277][771]LogFbx: 	Total Deformer Count 562292384.
+[2017.11.22-13.43.40:277][771]LogFbx: 		[Node 1]  (Type Skin).
+[2017.11.22-13.43.40:277][771]LogFbx: =================================================
+[2017.11.22-13.43.40:277][771]LogFbx: 	Attribute (weapon) Type (4).
+[2017.11.22-13.43.40:277][771]LogFbx: 		[Node Attribute Child 1] weapon (Type Mesh).
+[2017.11.22-13.43.40:277][771]LogFbx: Dumping Node END [weapon]
+[2017.11.22-13.43.40:277][771]LogFbx: =================================================
+[2017.11.22-13.43.40:277][771]LogFbx: Dumping Node START [weapon] 
+[2017.11.22-13.43.40:277][771]LogFbx: 	Total Deformer Count 562294736.
+[2017.11.22-13.43.40:277][771]LogFbx: 		[Node 1]  (Type Skin).
+[2017.11.22-13.43.40:277][771]LogFbx: =================================================
+[2017.11.22-13.43.40:277][771]LogFbx: 	Attribute (weapon) Type (4).
+[2017.11.22-13.43.40:277][771]LogFbx: 		[Node Attribute Child 1] weapon (Type Mesh).
+[2017.11.22-13.43.40:277][771]LogFbx: Dumping Node END [weapon]
+[2017.11.22-13.43.40:280][771]LogFbx: Valid bind pose for Pose (weapon) - weapon
+[2017.11.22-13.43.40:282][771]LogLinker: Can't find file '/Game/lightSaberPlaye'
+[2017.11.22-13.43.40:282][771]LogLinker: Can't find file '/Game/lightSaberPlaye'
+[2017.11.22-13.43.40:284][771]LogMaterial: Warning: Material /Game/lightSaberPlaye.lightSaberPlaye needed to have new flag set bUsedWithSkeletalMesh !
+[2017.11.22-13.43.40:285][771]LogMaterial: Missing cached shader map for material lightSaberPlaye, compiling. 
+[2017.11.22-13.43.40:319][771]LogMaterial: Missing cached shader map for material lightSaberPlaye, compiling. 
+[2017.11.22-13.43.40:350][771]LogLinker: Can't find file '/Game/green_light_saber'
+[2017.11.22-13.43.40:350][771]LogLinker: Can't find file '/Game/green_light_saber'
+[2017.11.22-13.43.40:350][771]LogMaterial: Warning: Material /Game/green_light_saber.green_light_saber needed to have new flag set bUsedWithSkeletalMesh !
+[2017.11.22-13.43.40:353][771]LogMaterial: Missing cached shader map for material green_light_saber, compiling. 
+[2017.11.22-13.43.40:401][771]LogMaterial: Missing cached shader map for material green_light_saber, compiling. 
+[2017.11.22-13.43.40:437][771]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2017.11.22-13.43.40:468][771]LogSkeletalMesh: Section 0: 966 vertices, 1 active bones
+[2017.11.22-13.43.40:468][771]LogSkeletalMesh: Section 1: 76 vertices, 1 active bones
+[2017.11.22-13.43.40:469][771]LogSkeletalMesh: Section 0: Material=0, 881 triangles
+[2017.11.22-13.43.40:469][771]LogSkeletalMesh: Section 1: Material=1, 96 triangles
+[2017.11.22-13.43.40:472][771]LogLinker: Can't find file '/Game/weapon_lightsaber_Skeleton'
+[2017.11.22-13.43.40:472][771]LogLinker: Can't find file '/Game/weapon_lightsaber_Skeleton'
+[2017.11.22-13.43.40:476][771]LogLinker: Can't find file '/Game/weapon_lightsaber_PhysicsAsset'
+[2017.11.22-13.43.40:476][771]LogLinker: Can't find file '/Game/weapon_lightsaber_PhysicsAsset'
+[2017.11.22-13.43.40:488][771]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.11.22-13.43.47:288][320]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/jp187238/Downloads/texture_sabre.TGA)
+[2017.11.22-13.43.47:297][320]LogTexture: Display: Building textures: texture_sabre (AutoDXT, 512X512)
+[2017.11.22-13.45.49:212][322]LogEditorViewport: Clicking Background
+[2017.11.22-13.46.57:049][124]LogSlate: Took 0.011679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.22-13.47.19:915][610]LogSlate: Took 0.006633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.22-13.47.54:056][358]LogMaterial: Warning: Material /Game/LightSaberLight.LightSaberLight needed to have new flag set bUsedWithSkeletalMesh !
+[2017.11.22-13.47.54:056][358]LogMaterial: Warning: Material /Engine/Transient.LightSaberLight needed to have new flag set bUsedWithSkeletalMesh !
+[2017.11.22-13.47.54:059][358]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.47.54:085][358]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.48.34:903][270]MaterialEditorStats: Base pass shader: 125 instructions
+[2017.11.22-13.48.34:903][270]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.48.34:903][270]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.22-13.48.44:313][239]LogSavePackage: Save=76.08ms
+[2017.11.22-13.48.44:313][239]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/StartupMap_Auto14343F9A949BCEE0D0CFB6C89E99B874A.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto1.umap'
+[2017.11.22-13.48.44:313][239]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto1.umap
+[2017.11.22-13.48.44:319][239]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.102
+[2017.11.22-13.48.44:319][239]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.102
+[2017.11.22-13.48.44:321][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LightSaberLight] ([1] browsable assets)...
+[2017.11.22-13.48.44:321][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/LightSaberLight]
+[2017.11.22-13.48.44:321][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LightSaberLight" FILE="D:/Lightstar/Lightstar/Saved/Autosaves/Game/LightSaberLight_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.22-13.48.44:334][239]LogSavePackage: Save=7.26ms
+[2017.11.22-13.48.44:334][239]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/LightSaberLight_Auto157DA2F214CF17284586E1792E5519477.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/LightSaberLight_Auto1.uasset'
+[2017.11.22-13.48.44:334][239]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/LightSaberLight_Auto1.uasset
+[2017.11.22-13.48.44:335][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/weapon_lightsaber] ([1] browsable assets)...
+[2017.11.22-13.48.44:345][239]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/weapon_lightsaber.weapon_lightsaber]
+[2017.11.22-13.48.44:345][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/weapon_lightsaber]
+[2017.11.22-13.48.44:345][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/weapon_lightsaber" FILE="D:/Lightstar/Lightstar/Saved/Autosaves/Game/weapon_lightsaber_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.22-13.48.44:362][239]LogSavePackage: Save=15.35ms
+[2017.11.22-13.48.44:362][239]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/weapon_lightsaber_Auto174777D5340C17464125DE085D4718C3F.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/weapon_lightsaber_Auto1.uasset'
+[2017.11.22-13.48.44:362][239]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/weapon_lightsaber_Auto1.uasset
+[2017.11.22-13.48.44:362][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lightSaberPlaye] ([1] browsable assets)...
+[2017.11.22-13.48.44:373][239]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lightSaberPlaye.lightSaberPlaye]
+[2017.11.22-13.48.44:373][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/lightSaberPlaye]
+[2017.11.22-13.48.44:373][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lightSaberPlaye" FILE="D:/Lightstar/Lightstar/Saved/Autosaves/Game/lightSaberPlaye_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.22-13.48.44:388][239]LogSavePackage: Save=13.77ms
+[2017.11.22-13.48.44:388][239]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/lightSaberPlaye_Auto162558D1A427160FDBE7DBB8E674891E4.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/lightSaberPlaye_Auto1.uasset'
+[2017.11.22-13.48.44:388][239]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/lightSaberPlaye_Auto1.uasset
+[2017.11.22-13.48.44:389][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/green_light_saber] ([1] browsable assets)...
+[2017.11.22-13.48.44:399][239]OBJ SavePackage:     Rendered thumbnail for [Material /Game/green_light_saber.green_light_saber]
+[2017.11.22-13.48.44:399][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/green_light_saber]
+[2017.11.22-13.48.44:399][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/green_light_saber" FILE="D:/Lightstar/Lightstar/Saved/Autosaves/Game/green_light_saber_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.22-13.48.44:414][239]LogSavePackage: Save=13.63ms
+[2017.11.22-13.48.44:414][239]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/green_light_saber_Auto12E8AAF26474A490D8D87239F15951E58.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/green_light_saber_Auto1.uasset'
+[2017.11.22-13.48.44:415][239]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/green_light_saber_Auto1.uasset
+[2017.11.22-13.48.44:415][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/weapon_lightsaber_Skeleton] ([1] browsable assets)...
+[2017.11.22-13.48.44:415][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/weapon_lightsaber_Skeleton]
+[2017.11.22-13.48.44:415][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/weapon_lightsaber_Skeleton" FILE="D:/Lightstar/Lightstar/Saved/Autosaves/Game/weapon_lightsaber_Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.22-13.48.44:421][239]LogSavePackage: Save=4.56ms
+[2017.11.22-13.48.44:421][239]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/weapon_lightsaber_Skeleton_Auto153A724B0463426B88221D4BE08CC0960.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/weapon_lightsaber_Skeleton_Auto1.uasset'
+[2017.11.22-13.48.44:421][239]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/weapon_lightsaber_Skeleton_Auto1.uasset
+[2017.11.22-13.48.44:421][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/weapon_lightsaber_PhysicsAsset] ([1] browsable assets)...
+[2017.11.22-13.48.44:421][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/weapon_lightsaber_PhysicsAsset]
+[2017.11.22-13.48.44:421][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/weapon_lightsaber_PhysicsAsset" FILE="D:/Lightstar/Lightstar/Saved/Autosaves/Game/weapon_lightsaber_PhysicsAsset_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.22-13.48.44:427][239]LogSavePackage: Save=4.43ms
+[2017.11.22-13.48.44:427][239]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/weapon_lightsaber_PhysicsAsset_Auto1EE5C181C46EF40F82C26C99CB28E44F4.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/weapon_lightsaber_PhysicsAsset_Auto1.uasset'
+[2017.11.22-13.48.44:427][239]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/weapon_lightsaber_PhysicsAsset_Auto1.uasset
+[2017.11.22-13.48.44:428][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/texture_sabre] ([1] browsable assets)...
+[2017.11.22-13.48.44:434][239]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/texture_sabre.texture_sabre]
+[2017.11.22-13.48.44:434][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/texture_sabre]
+[2017.11.22-13.48.44:434][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/texture_sabre" FILE="D:/Lightstar/Lightstar/Saved/Autosaves/Game/texture_sabre_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.22-13.48.44:448][239]LogSavePackage: Save=12.24ms
+[2017.11.22-13.48.44:448][239]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/texture_sabre_Auto13D88E9A54203287E597A949BC2D75F55.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/texture_sabre_Auto1.uasset'
+[2017.11.22-13.48.44:448][239]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/texture_sabre_Auto1.uasset
+[2017.11.22-13.48.44:448][239]LogFileHelpers: Auto-saving content packages took 0.128
+[2017.11.22-13.49.14:659][605]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.49.14:687][605]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.22-13.49.16:113][761]LogMaterialEditor: Applying material LightSaberLight
+[2017.11.22-13.49.17:364][761]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.49.17:414][761]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.49.17:451][761]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.49.17:497][761]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LightSaberLight, compiling. 
+[2017.11.22-13.49.21:429][761]TextureStreamingBuild: Display: Compiling optional shaders took 3.938 seconds.
+[2017.11.22-13.49.30:124][354]MaterialEditorStats: Base pass shader: 125 instructions
+[2017.11.22-13.49.30:124][354]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.49.30:124][354]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.22-13.49.40:797][496]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.11.22-13.49.46:535][151]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.11.22-13.50.20:185][692]LogMaterial: Missing cached shader map for material lightSaberPlaye, compiling. 
+[2017.11.22-13.50.20:256][692]LogMaterial: Missing cached shader map for material lightSaberPlaye, compiling. 
+[2017.11.22-13.50.20:310][692]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.22-13.50.28:463][601]MaterialEditorStats: Base pass shader: 126 instructions
+[2017.11.22-13.50.28:463][601]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.50.28:463][601]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.50.40:192][969]LogMaterial: Missing cached shader map for material lightSaberPlaye, compiling. 
+[2017.11.22-13.50.40:219][969]LogMaterial: Missing cached shader map for material lightSaberPlaye, compiling. 
+[2017.11.22-13.50.49:473][996]MaterialEditorStats: Base pass shader: 126 instructions
+[2017.11.22-13.50.49:473][996]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.50.49:473][996]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.50.58:625][ 10]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.11.22-13.51.05:727][808]LogMaterialEditor: Applying material lightSaberPlaye
+[2017.11.22-13.51.06:387][808]LogMaterial: Missing cached shader map for material lightSaberPlaye, compiling. 
+[2017.11.22-13.51.06:439][808]LogMaterial: Missing cached shader map for material lightSaberPlaye, compiling. 
+[2017.11.22-13.51.06:479][808]LogMaterial: Missing cached shader map for material lightSaberPlaye, compiling. 
+[2017.11.22-13.51.06:524][808]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lightSaberPlaye, compiling. 
+[2017.11.22-13.51.10:409][808]TextureStreamingBuild: Display: Compiling optional shaders took 3.890 seconds.
+[2017.11.22-13.51.15:346][280]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-13.51.15:903][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-13.51.15:916][280]PIE: New page: PIE session: StartupMap (22 Nov 2017 13:51:15)
+[2017.11.22-13.51.15:917][280]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2017.11.22-13.51.15:924][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007680s)
+[2017.11.22-13.51.15:925][280]LogAIModule: Creating AISystem for world StartupMap
+[2017.11.22-13.51.15:925][280]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2017.11.22-13.51.15:926][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.009371s)
+[2017.11.22-13.51.15:940][280]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-13.51.16:008][280]LogInit: FAudioDevice initialized.
+[2017.11.22-13.51.16:054][280]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.11.22-13.51.16:054][280]LogLoad: Game class is 'GameModeBase'
+[2017.11.22-13.51.16:078][280]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2017.11.22-13.51.16
+[2017.11.22-13.51.16:080][280]LogWorld: Bringing up level for play took: 0.004286
+[2017.11.22-13.51.16:256][280]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.11.22-13.51.16:261][280]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.354
+[2017.11.22-13.51.25:781][275]MaterialEditorStats: Base pass shader: 126 instructions
+[2017.11.22-13.51.25:781][275]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.51.25:781][275]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.22-13.51.34:616][325]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.51.34:643][325]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.22-13.51.35:861][462]LogMaterialEditor: Applying material LightSaberLight
+[2017.11.22-13.51.36:578][462]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.51.36:627][462]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.51.36:669][462]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.51.36:716][462]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LightSaberLight, compiling. 
+[2017.11.22-13.51.41:167][462]TextureStreamingBuild: Display: Compiling optional shaders took 4.456 seconds.
+[2017.11.22-13.51.51:117][600]MaterialEditorStats: Base pass shader: 125 instructions
+[2017.11.22-13.51.51:117][600]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.51.51:117][600]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.22-13.52.08:248][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1_cube2)
+[2017.11.22-13.52.09:017][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1_cube2)
+[2017.11.22-13.52.09:489][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1_cube2)
+[2017.11.22-13.52.10:014][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1_cube2)
+[2017.11.22-13.52.10:477][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1_cube2)
+[2017.11.22-13.52.10:882][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1_cube2)
+[2017.11.22-13.52.13:133][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1_cube2)
+[2017.11.22-13.52.13:576][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1_cube2)
+[2017.11.22-13.52.14:045][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1_cube2)
+[2017.11.22-13.52.14:420][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1_cube2)
+[2017.11.22-13.52.15:114][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1x1_cube2)
+[2017.11.22-13.52.15:472][367]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.11.22-13.52.20:683][928]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-13.52.20:694][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-13.52.20:694][928]PIE: New page: PIE session: StartupMap (22 Nov 2017 13:52:20)
+[2017.11.22-13.52.20:694][928]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2017.11.22-13.52.20:698][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004255s)
+[2017.11.22-13.52.20:699][928]LogAIModule: Creating AISystem for world StartupMap
+[2017.11.22-13.52.20:699][928]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2017.11.22-13.52.20:699][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.005457s)
+[2017.11.22-13.52.20:710][928]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-13.52.20:774][928]LogInit: FAudioDevice initialized.
+[2017.11.22-13.52.20:805][928]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.11.22-13.52.20:805][928]LogLoad: Game class is 'GameModeBase'
+[2017.11.22-13.52.20:808][928]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2017.11.22-13.52.20
+[2017.11.22-13.52.20:808][928]LogWorld: Bringing up level for play took: 0.001852
+[2017.11.22-13.52.20:810][928]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.194
+[2017.11.22-13.52.32:663][314]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.52.41:749][334]MaterialEditorStats: Base pass shader: 125 instructions
+[2017.11.22-13.52.41:749][334]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.52.41:749][334]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.52.46:444][894]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.52.48:714][149]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.52.56:625][ 51]MaterialEditorStats: Base pass shader: 125 instructions
+[2017.11.22-13.52.56:625][ 51]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.52.56:625][ 51]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.52.58:862][315]LogMaterialEditor: Applying material LightSaberLight
+[2017.11.22-13.52.59:526][315]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.52.59:581][315]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.52.59:624][315]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.52.59:668][315]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LightSaberLight, compiling. 
+[2017.11.22-13.53.03:287][315]TextureStreamingBuild: Display: Compiling optional shaders took 3.624 seconds.
+[2017.11.22-13.53.09:681][950]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-13.53.09:689][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-13.53.09:689][950]PIE: New page: PIE session: StartupMap (22 Nov 2017 13:53:09)
+[2017.11.22-13.53.09:689][950]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2017.11.22-13.53.09:694][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004524s)
+[2017.11.22-13.53.09:695][950]LogAIModule: Creating AISystem for world StartupMap
+[2017.11.22-13.53.09:695][950]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2017.11.22-13.53.09:695][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.005622s)
+[2017.11.22-13.53.09:706][950]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-13.53.09:774][950]LogInit: FAudioDevice initialized.
+[2017.11.22-13.53.09:808][950]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.11.22-13.53.09:808][950]LogLoad: Game class is 'GameModeBase'
+[2017.11.22-13.53.09:810][950]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2017.11.22-13.53.09
+[2017.11.22-13.53.09:810][950]LogWorld: Bringing up level for play took: 0.002002
+[2017.11.22-13.53.09:812][950]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.804
+[2017.11.22-13.53.14:718][513]MaterialEditorStats: Base pass shader: 125 instructions
+[2017.11.22-13.53.14:718][513]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.53.14:718][513]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.22-13.53.24:029][598]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.11.22-13.53.31:979][537]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.53.39:630][411]MaterialEditorStats: Base pass shader: 125 instructions
+[2017.11.22-13.53.39:630][411]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.53.39:630][411]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.53.46:687][256]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.53.54:122][100]MaterialEditorStats: Base pass shader: 125 instructions
+[2017.11.22-13.53.54:122][100]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.53.54:122][100]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.54.01:763][ 14]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.54.10:855][ 27]MaterialEditorStats: Base pass shader: 125 instructions
+[2017.11.22-13.54.10:855][ 27]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.54.10:855][ 27]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.54.33:218][692]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.54.41:771][661]MaterialEditorStats: Base pass shader: 125 instructions
+[2017.11.22-13.54.41:771][661]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.54.41:771][661]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.54.44:361][970]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.54.50:550][665]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.55.02:727][  4]MaterialEditorStats: Base pass shader: 126 instructions
+[2017.11.22-13.55.02:727][  4]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.55.02:727][  4]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.55.08:114][649]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.55.16:792][618]MaterialEditorStats: Base pass shader: 126 instructions
+[2017.11.22-13.55.16:792][618]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.55.16:792][618]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.55.22:699][324]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.55.31:843][332]MaterialEditorStats: Base pass shader: 126 instructions
+[2017.11.22-13.55.31:843][332]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.55.31:843][332]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.22-13.55.31:851][333]LogMaterialEditor: Applying material LightSaberLight
+[2017.11.22-13.55.32:526][333]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.55.32:577][333]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.55.32:617][333]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.55.32:663][333]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LightSaberLight, compiling. 
+[2017.11.22-13.55.37:223][333]TextureStreamingBuild: Display: Compiling optional shaders took 4.565 seconds.
+[2017.11.22-13.56.01:193][621]MaterialEditorStats: Base pass shader: 126 instructions
+[2017.11.22-13.56.01:193][621]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.56.01:193][621]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.22-13.56.27:353][671]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.56.27:382][671]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.22-13.56.28:185][758]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.56.28:215][758]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.22-13.56.36:087][640]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.56.36:116][640]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.22-13.56.38:418][890]LogMaterialEditor: Applying material LightSaberLight
+[2017.11.22-13.56.39:145][890]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.56.39:193][890]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.56.39:231][890]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.56.39:279][890]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LightSaberLight, compiling. 
+[2017.11.22-13.56.43:312][890]TextureStreamingBuild: Display: Compiling optional shaders took 4.039 seconds.
+[2017.11.22-13.56.53:983][823]MaterialEditorStats: Base pass shader: 126 instructions
+[2017.11.22-13.56.53:983][823]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.56.53:983][823]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.22-13.56.59:924][465]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-13.56.59:932][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-13.56.59:932][465]PIE: New page: PIE session: StartupMap (22 Nov 2017 13:56:59)
+[2017.11.22-13.56.59:932][465]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2017.11.22-13.56.59:937][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004964s)
+[2017.11.22-13.56.59:939][465]LogAIModule: Creating AISystem for world StartupMap
+[2017.11.22-13.56.59:939][465]LogPlayLevel: PIE: World Init took: (0.002170s)
+[2017.11.22-13.56.59:939][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007472s)
+[2017.11.22-13.56.59:950][465]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-13.57.00:016][465]LogInit: FAudioDevice initialized.
+[2017.11.22-13.57.00:052][465]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.11.22-13.57.00:052][465]LogLoad: Game class is 'GameModeBase'
+[2017.11.22-13.57.00:054][465]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2017.11.22-13.57.00
+[2017.11.22-13.57.00:055][465]LogWorld: Bringing up level for play took: 0.001781
+[2017.11.22-13.57.00:056][465]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.559
+[2017.11.22-13.57.13:120][993]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.57.21:712][937]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.57.21:748][937]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.22-13.57.23:664][146]LogMaterialEditor: Applying material LightSaberLight
+[2017.11.22-13.57.24:368][146]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.57.24:416][146]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.57.24:455][146]LogMaterial: Missing cached shader map for material LightSaberLight, compiling. 
+[2017.11.22-13.57.24:499][146]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LightSaberLight, compiling. 
+[2017.11.22-13.57.28:484][146]TextureStreamingBuild: Display: Compiling optional shaders took 3.990 seconds.
+[2017.11.22-13.57.39:010][ 79]MaterialEditorStats: Base pass shader: 126 instructions
+[2017.11.22-13.57.39:011][ 79]MaterialEditorStats: Vertex shader: 85 instructions
+[2017.11.22-13.57.39:011][ 79]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.22-13.57.41:443][355]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.11.22-13.57.42:127][431]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.11.22-13.57.42:607][481]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.11.22-13.57.47:895][  5]LogMaterial: Missing cached shader map for material texture_sabre_Mat, compiling. 
+[2017.11.22-13.57.47:914][  5]LogMaterial: Warning: Material /Game/texture_sabre_Mat.texture_sabre_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2017.11.22-13.57.47:916][  5]LogMaterial: Missing cached shader map for material texture_sabre_Mat, compiling. 
+[2017.11.22-13.57.52:256][401]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.11.22-13.58.44:326][328]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-13.58.44:338][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-13.58.44:338][328]PIE: New page: PIE session: StartupMap (22 Nov 2017 13:58:44)
+[2017.11.22-13.58.44:338][328]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2017.11.22-13.58.44:343][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004706s)
+[2017.11.22-13.58.44:344][328]LogAIModule: Creating AISystem for world StartupMap
+[2017.11.22-13.58.44:344][328]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2017.11.22-13.58.44:344][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.006027s)
+[2017.11.22-13.58.44:355][328]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-13.58.44:422][328]LogInit: FAudioDevice initialized.
+[2017.11.22-13.58.44:455][328]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2017.11.22-13.58.44:455][328]LogLoad: Game class is 'GameModeBase'
+[2017.11.22-13.58.44:458][328]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2017.11.22-13.58.44
+[2017.11.22-13.58.44:458][328]LogWorld: Bringing up level for play took: 0.002184
+[2017.11.22-13.58.44:460][328]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.156
+[2017.11.22-13.58.54:681][490]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.11.22-13.59.03:292][385]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.11.22-14.00.10:405][351]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 113 classes and 0 folders.
+[2017.11.22-14.00.11:246][351]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2017.11.22-14.00.11:345][351]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2017.11.22-14.00.11:662][352]LogRenderer: Reallocating scene render targets to support 1208x900 Format 26 NumSamples 1 (Frame:1).
+[2017.11.22-14.00.55:826][581]LogSavePackage: Save=79.29ms
+[2017.11.22-14.00.55:826][581]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/StartupMap_Auto2BCAC942C4F10372CF6D881AB9596EA74.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto2.umap'
+[2017.11.22-14.00.55:827][581]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto2.umap
+[2017.11.22-14.00.55:832][581]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.114
+[2017.11.22-14.00.55:832][581]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.114
+[2017.11.22-14.00.55:833][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LightSaberLight] ([1] browsable assets)...
+[2017.11.22-14.00.55:845][581]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LightSaberLight.LightSaberLight]
+[2017.11.22-14.00.55:845][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/LightSaberLight]
+[2017.11.22-14.00.55:845][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LightSaberLight" FILE="D:/Lightstar/Lightstar/Saved/Autosaves/Game/LightSaberLight_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.11.22-14.00.55:866][581]LogSavePackage: Save=15.12ms
+[2017.11.22-14.00.55:866][581]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/LightSaberLight_Auto2B75955C9472FD223C0D3A2A495E02FF0.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/LightSaberLight_Auto2.uasset'
+[2017.11.22-14.00.55:867][581]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/LightSaberLight_Auto2.uasset
+[2017.11.22-14.00.55:867][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lightSaberPlaye] ([1] browsable assets)...
+[2017.11.22-14.00.55:878][581]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lightSaberPlaye.lightSaberPlaye]
+[2017.11.22-14.00.55:878][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/lightSaberPlaye]
+[2017.11.22-14.00.55:878][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lightSaberPlaye" FILE="D:/Lightstar/Lightstar/Saved/Autosaves/Game/lightSaberPlaye_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.11.22-14.00.55:894][581]LogSavePackage: Save=14.82ms
+[2017.11.22-14.00.55:894][581]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/lightSaberPlaye_Auto256BC34A641BA15AA2234CAA32C9CFB0B.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/lightSaberPlaye_Auto2.uasset'
+[2017.11.22-14.00.55:895][581]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/lightSaberPlaye_Auto2.uasset
+[2017.11.22-14.00.55:895][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/texture_sabre_Mat] ([1] browsable assets)...
+[2017.11.22-14.00.55:905][581]OBJ SavePackage:     Rendered thumbnail for [Material /Game/texture_sabre_Mat.texture_sabre_Mat]
+[2017.11.22-14.00.55:905][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/texture_sabre_Mat]
+[2017.11.22-14.00.55:905][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/texture_sabre_Mat" FILE="D:/Lightstar/Lightstar/Saved/Autosaves/Game/texture_sabre_Mat_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.11.22-14.00.55:923][581]LogSavePackage: Save=15.96ms
+[2017.11.22-14.00.55:923][581]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/texture_sabre_Mat_Auto2602980694D1763F99AAE44A1805153E6.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/texture_sabre_Mat_Auto2.uasset'
+[2017.11.22-14.00.55:923][581]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/texture_sabre_Mat_Auto2.uasset
+[2017.11.22-14.00.55:923][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LS_Blueprint] ([1] browsable assets)...
+[2017.11.22-14.00.55:934][581]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LS_Blueprint.LS_Blueprint]
+[2017.11.22-14.00.55:934][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/LS_Blueprint]
+[2017.11.22-14.00.55:934][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LS_Blueprint" FILE="D:/Lightstar/Lightstar/Saved/Autosaves/Game/LS_Blueprint_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.11.22-14.00.55:956][581]LogSavePackage: Save=20.96ms
+[2017.11.22-14.00.55:956][581]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/LS_Blueprint_Auto2E78E50FD4E115DBCE3A4BBA115F36700.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/LS_Blueprint_Auto2.uasset'
+[2017.11.22-14.00.55:957][581]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/LS_Blueprint_Auto2.uasset
+[2017.11.22-14.00.55:957][581]LogFileHelpers: Auto-saving content packages took 0.124
+[2017.11.22-14.06.25:746][790]LogMaterial: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2017.11.22-14.06.25:783][790]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2017.11.22-14.06.25:829][790]LogMaterial: Missing cached shader map for material M_Spark, compiling. 
+[2017.11.22-14.07.05:447][277]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2017.11.22-14.07.05:447][277]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2017.11.22-14.07.07:683][491]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2017.11.22-14.07.07:683][491]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2017.11.22-14.09.43:043][135]LogSlate: Took 0.026557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.22-14.15.53:644][555]LogSavePackage: Save=92.69ms
+[2017.11.22-14.15.53:644][555]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/StartupMap_Auto32D858F2F4511BC9654F135AE7AFFB7BB.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto3.umap'
+[2017.11.22-14.15.53:645][555]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto3.umap
+[2017.11.22-14.15.53:646][555]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.127
+[2017.11.22-14.15.53:647][555]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.127
+[2017.11.22-14.15.53:648][555]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LS_Blueprint] ([1] browsable assets)...
+[2017.11.22-14.15.53:660][555]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LS_Blueprint.LS_Blueprint]
+[2017.11.22-14.15.53:660][555]OBJ SavePackage: Finished generating thumbnails for package [/Game/LS_Blueprint]
+[2017.11.22-14.15.53:660][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LS_Blueprint" FILE="D:/Lightstar/Lightstar/Saved/Autosaves/Game/LS_Blueprint_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.11.22-14.15.53:694][555]LogSavePackage: Save=32.68ms
+[2017.11.22-14.15.53:694][555]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/LS_Blueprint_Auto361446B8A4D2246BBEAA29CA0CD6377EA.tmp' to 'D:/Lightstar/Lightstar/Saved/Autosaves/Game/LS_Blueprint_Auto3.uasset'
+[2017.11.22-14.15.53:695][555]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Saved/Autosaves/Game/LS_Blueprint_Auto3.uasset
+[2017.11.22-14.15.53:695][555]LogFileHelpers: Auto-saving content packages took 0.047
+[2017.11.22-14.21.27:447][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/StartupMap" FILE="D:/Lightstar/Lightstar/Content/VirtualRealityBP/Maps/StartupMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.22-14.21.27:564][509]LogSavePackage: Save=92.44ms
+[2017.11.22-14.21.27:564][509]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/StartupMap3AFF0B694008825DF7F400A588D5E28D.tmp' to 'D:/Lightstar/Lightstar/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2017.11.22-14.21.27:574][509]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Content/VirtualRealityBP/Maps/StartupMap.umap
+[2017.11.22-14.21.27:597][509]LogFileHelpers: Saving map 'StartupMap' took 0.229
+[2017.11.22-14.21.27:599][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LightSaberLight" FILE="D:/Lightstar/Lightstar/Content/LightSaberLight.uasset" SILENT=true
+[2017.11.22-14.21.27:613][509]LogSavePackage: Save=7.86ms
+[2017.11.22-14.21.27:613][509]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/LightSaberLight5EE1393B45D29174B1FCDC858513704A.tmp' to 'D:/Lightstar/Lightstar/Content/LightSaberLight.uasset'
+[2017.11.22-14.21.27:619][509]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Content/LightSaberLight.uasset
+[2017.11.22-14.21.27:635][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/weapon_lightsaber" FILE="D:/Lightstar/Lightstar/Content/weapon_lightsaber.uasset" SILENT=true
+[2017.11.22-14.21.27:652][509]LogSavePackage: Save=15.53ms
+[2017.11.22-14.21.27:652][509]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/weapon_lightsaberD69224F8450891F4640372A1BC7B4FCA.tmp' to 'D:/Lightstar/Lightstar/Content/weapon_lightsaber.uasset'
+[2017.11.22-14.21.27:659][509]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Content/weapon_lightsaber.uasset
+[2017.11.22-14.21.27:678][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lightSaberPlaye" FILE="D:/Lightstar/Lightstar/Content/lightSaberPlaye.uasset" SILENT=true
+[2017.11.22-14.21.27:694][509]LogSavePackage: Save=14.06ms
+[2017.11.22-14.21.27:694][509]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/lightSaberPlaye92969AF64385951ACF01E7B7E191B742.tmp' to 'D:/Lightstar/Lightstar/Content/lightSaberPlaye.uasset'
+[2017.11.22-14.21.27:701][509]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Content/lightSaberPlaye.uasset
+[2017.11.22-14.21.27:716][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/green_light_saber" FILE="D:/Lightstar/Lightstar/Content/green_light_saber.uasset" SILENT=true
+[2017.11.22-14.21.27:732][509]LogSavePackage: Save=14.81ms
+[2017.11.22-14.21.27:732][509]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/green_light_saber5ACAA8B943485663B59B829917A9D48D.tmp' to 'D:/Lightstar/Lightstar/Content/green_light_saber.uasset'
+[2017.11.22-14.21.27:739][509]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Content/green_light_saber.uasset
+[2017.11.22-14.21.27:742][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/weapon_lightsaber_Skeleton" FILE="D:/Lightstar/Lightstar/Content/weapon_lightsaber_Skeleton.uasset" SILENT=true
+[2017.11.22-14.21.27:748][509]LogSavePackage: Save=4.28ms
+[2017.11.22-14.21.27:748][509]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/weapon_lightsaber_SkeletonDCC32AE843F3D4D3797B979A31F04E60.tmp' to 'D:/Lightstar/Lightstar/Content/weapon_lightsaber_Skeleton.uasset'
+[2017.11.22-14.21.27:754][509]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Content/weapon_lightsaber_Skeleton.uasset
+[2017.11.22-14.21.27:760][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/weapon_lightsaber_PhysicsAsset" FILE="D:/Lightstar/Lightstar/Content/weapon_lightsaber_PhysicsAsset.uasset" SILENT=true
+[2017.11.22-14.21.27:765][509]LogSavePackage: Save=4.43ms
+[2017.11.22-14.21.27:765][509]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/weapon_lightsaber_PhysicsAssetEF4F0AA9437B9936A0C7F985CA632F5B.tmp' to 'D:/Lightstar/Lightstar/Content/weapon_lightsaber_PhysicsAsset.uasset'
+[2017.11.22-14.21.27:771][509]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Content/weapon_lightsaber_PhysicsAsset.uasset
+[2017.11.22-14.21.27:780][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/texture_sabre" FILE="D:/Lightstar/Lightstar/Content/texture_sabre.uasset" SILENT=true
+[2017.11.22-14.21.27:815][509]LogSavePackage: Save=33.94ms
+[2017.11.22-14.21.27:815][509]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/texture_sabre8AE7E879400BF1CA9A1BC2A36B18CA46.tmp' to 'D:/Lightstar/Lightstar/Content/texture_sabre.uasset'
+[2017.11.22-14.21.27:819][509]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Content/texture_sabre.uasset
+[2017.11.22-14.21.27:834][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/texture_sabre_Mat" FILE="D:/Lightstar/Lightstar/Content/texture_sabre_Mat.uasset" SILENT=true
+[2017.11.22-14.21.27:851][509]LogSavePackage: Save=15.41ms
+[2017.11.22-14.21.27:851][509]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/texture_sabre_Mat2253BC1D4F4B16218AB58BA3CA9E2C3F.tmp' to 'D:/Lightstar/Lightstar/Content/texture_sabre_Mat.uasset'
+[2017.11.22-14.21.27:855][509]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Content/texture_sabre_Mat.uasset
+[2017.11.22-14.21.27:868][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LS_Blueprint" FILE="D:/Lightstar/Lightstar/Content/LS_Blueprint.uasset" SILENT=true
+[2017.11.22-14.21.27:902][509]LogSavePackage: Save=32.56ms
+[2017.11.22-14.21.27:902][509]LogSavePackage: Moving 'D:/Lightstar/Lightstar/Saved/LS_BlueprintEB8FDC684142531B76A460B51BB4184C.tmp' to 'D:/Lightstar/Lightstar/Content/LS_Blueprint.uasset'
+[2017.11.22-14.21.27:904][509]LogSavePackage: Display: Finished SavePackage D:/Lightstar/Lightstar/Content/LS_Blueprint.uasset
+[2017.11.22-14.21.32:288][957]Cmd: QUIT_EDITOR
+[2017.11.22-14.21.33:292][957]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.22-14.21.33:315][957]LogExit: Preparing to exit.
+[2017.11.22-14.21.34:086][957]LogExit: Editor shut down
+[2017.11.22-14.21.34:118][957]LogExit: Transaction tracking system shut down
+[2017.11.22-14.21.34:349][957]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.22-14.21.34:349][957]LogDirectoryWatcher: A directory notification for 'D:/Lightstar/Lightstar/Content/' was aborted.
+[2017.11.22-14.21.34:349][957]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.22-14.21.34:349][957]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.22-14.21.34:349][957]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.22-14.21.34:530][957]LogExit: Object subsystem successfully closed.
+[2017.11.22-14.21.34:570][957]LogD3D11RHI: Shutdown
+[2017.11.22-14.21.34:571][957]LogD3D11RHI: CleanupD3DDevice
+[2017.11.22-14.21.34:717][957]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.22-14.21.34:785][957]LogModuleManager: Shutting down and abandoning module BlueprintGraph (540)
+[2017.11.22-14.21.34:785][957]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (538)
+[2017.11.22-14.21.34:793][957]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (536)
+[2017.11.22-14.21.34:794][957]LogModuleManager: Shutting down and abandoning module TextureEditor (534)
+[2017.11.22-14.21.34:794][957]LogModuleManager: Shutting down and abandoning module MaterialEditor (532)
+[2017.11.22-14.21.34:794][957]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.11.22-14.21.34:794][957]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.11.22-14.21.34:794][957]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.11.22-14.21.34:795][957]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.22-14.21.34:801][957]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.11.22-14.21.34:801][957]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.11.22-14.21.34:801][957]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.11.22-14.21.34:801][957]LogDirectoryWatcher: A directory notification for 'D:/Lightstar/Lightstar/Content/Collections/' was aborted.
+[2017.11.22-14.21.34:801][957]LogDirectoryWatcher: A directory notification for 'D:/Lightstar/Lightstar/Content/Developers/jp187238/Collections/' was aborted.
+[2017.11.22-14.21.34:802][957]LogDirectoryWatcher: A directory notification for 'D:/Lightstar/Lightstar/Saved/Collections/' was aborted.
+[2017.11.22-14.21.34:802][957]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.11.22-14.21.34:802][957]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.11.22-14.21.34:802][957]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.11.22-14.21.34:803][957]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.11.22-14.21.34:803][957]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.11.22-14.21.34:803][957]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.11.22-14.21.34:803][957]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.11.22-14.21.34:803][957]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.11.22-14.21.34:803][957]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.11.22-14.21.34:804][957]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.11.22-14.21.34:804][957]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.11.22-14.21.34:804][957]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.11.22-14.21.34:804][957]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.11.22-14.21.34:804][957]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.11.22-14.21.34:805][957]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.11.22-14.21.34:809][957]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.11.22-14.21.34:809][957]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.11.22-14.21.34:809][957]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.11.22-14.21.34:809][957]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.11.22-14.21.34:809][957]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.11.22-14.21.34:809][957]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.11.22-14.21.34:809][957]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.11.22-14.21.34:809][957]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.11.22-14.21.34:809][957]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.11.22-14.21.34:809][957]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.11.22-14.21.34:809][957]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.11.22-14.21.34:810][957]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.11.22-14.21.34:810][957]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.11.22-14.21.34:810][957]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.11.22-14.21.34:810][957]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.11.22-14.21.34:810][957]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.11.22-14.21.34:811][957]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.11.22-14.21.34:812][957]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.11.22-14.21.34:813][957]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.11.22-14.21.34:813][957]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.11.22-14.21.34:814][957]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.11.22-14.21.34:814][957]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.11.22-14.21.34:814][957]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.11.22-14.21.34:995][957]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.11.22-14.21.34:995][957]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.11.22-14.21.34:995][957]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.11.22-14.21.34:995][957]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.11.22-14.21.34:995][957]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.11.22-14.21.34:996][957]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.11.22-14.21.34:996][957]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.11.22-14.21.34:997][957]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.11.22-14.21.34:997][957]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.11.22-14.21.34:998][957]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.11.22-14.21.34:998][957]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.11.22-14.21.34:998][957]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.11.22-14.21.34:999][957]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.11.22-14.21.34:999][957]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.11.22-14.21.34:999][957]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.11.22-14.21.34:999][957]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.11.22-14.21.34:999][957]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.11.22-14.21.35:000][957]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.11.22-14.21.35:000][957]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.11.22-14.21.35:001][957]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.11.22-14.21.35:001][957]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.11.22-14.21.35:001][957]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.11.22-14.21.35:002][957]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.11.22-14.21.35:003][957]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.11.22-14.21.35:066][957]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.11.22-14.21.35:067][957]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.11.22-14.21.35:069][957]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.11.22-14.21.35:072][957]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.11.22-14.21.35:072][957]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.11.22-14.21.35:072][957]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.11.22-14.21.35:073][957]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.11.22-14.21.35:074][957]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.11.22-14.21.35:074][957]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.11.22-14.21.35:074][957]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.11.22-14.21.35:081][957]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.11.22-14.21.35:082][957]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.11.22-14.21.35:082][957]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.11.22-14.21.35:082][957]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.11.22-14.21.35:084][957]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.11.22-14.21.35:084][957]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.11.22-14.21.35:085][957]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.11.22-14.21.35:085][957]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.11.22-14.21.35:085][957]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.11.22-14.21.35:085][957]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.11.22-14.21.35:085][957]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.11.22-14.21.35:087][957]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.11.22-14.21.35:087][957]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.11.22-14.21.35:087][957]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.11.22-14.21.35:087][957]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.11.22-14.21.35:087][957]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.11.22-14.21.35:087][957]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.11.22-14.21.35:087][957]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.11.22-14.21.35:088][957]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.11.22-14.21.35:088][957]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.11.22-14.21.35:088][957]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.11.22-14.21.35:326][957]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.11.22-14.21.35:332][957]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.11.22-14.21.35:332][957]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.11.22-14.21.35:332][957]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.11.22-14.21.35:332][957]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.11.22-14.21.35:333][957]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.11.22-14.21.35:333][957]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.11.22-14.21.35:333][957]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.11.22-14.21.35:333][957]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.11.22-14.21.35:333][957]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.11.22-14.21.35:333][957]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.11.22-14.21.35:336][957]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.11.22-14.21.35:336][957]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.11.22-14.21.35:337][957]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.11.22-14.21.35:337][957]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.11.22-14.21.35:337][957]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.11.22-14.21.35:337][957]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.11.22-14.21.35:337][957]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.11.22-14.21.35:340][957]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.11.22-14.21.35:341][957]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.11.22-14.21.35:341][957]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.11.22-14.21.35:341][957]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.11.22-14.21.35:341][957]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.11.22-14.21.35:342][957]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.11.22-14.21.35:345][957]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.11.22-14.21.35:346][957]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.11.22-14.21.35:347][957]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.11.22-14.21.35:347][957]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.11.22-14.21.35:347][957]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.11.22-14.21.35:347][957]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.11.22-14.21.35:348][957]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.11.22-14.21.35:348][957]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.11.22-14.21.35:349][957]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.11.22-14.21.35:350][957]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.11.22-14.21.35:350][957]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.11.22-14.21.35:351][957]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.22-14.21.35:351][957]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.22-14.21.35:351][957]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.22-14.21.35:351][957]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.22-14.21.35:351][957]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.22-14.21.35:351][957]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.22-14.21.35:351][957]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.22-14.21.35:352][957]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.22-14.21.35:453][957]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.22-14.21.35:554][957]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.22-14.21.35:560][957]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.22-14.21.35:560][957]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.22-14.21.35:560][957]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.22-14.21.35:561][957]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.22-14.21.35:562][957]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.22-14.21.35:564][957]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.22-14.21.35:564][957]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.22-14.21.35:564][957]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.22-14.21.35:564][957]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.22-14.21.35:565][957]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.22-14.21.35:565][957]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.22-14.21.35:565][957]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.22-14.21.35:566][957]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.22-14.21.35:566][957]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.22-14.21.35:566][957]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.22-14.21.35:566][957]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.22-14.21.35:567][957]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.22-14.21.35:567][957]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.22-14.21.35:567][957]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.22-14.21.35:570][957]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.22-14.21.35:570][957]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.22-14.21.35:571][957]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.22-14.21.35:571][957]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.22-14.21.35:571][957]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.22-14.21.35:573][957]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.22-14.21.35:574][957]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.22-14.21.35:574][957]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.22-14.21.35:578][957]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.22-14.21.35:578][957]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.22-14.21.35:582][957]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.22-14.21.35:582][957]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.22-14.21.35:582][957]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.22-14.21.35:582][957]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.22-14.21.35:582][957]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.22-14.21.35:582][957]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.22-14.21.35:582][957]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.22-14.21.35:582][957]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.11.22-14.21.35:582][957]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.11.22-14.21.35:582][957]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.11.22-14.21.35:584][957]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.11.22-14.21.35:584][957]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.11.22-14.21.35:584][957]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.11.22-14.21.35:584][957]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.11.22-14.21.35:585][957]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.11.22-14.21.35:585][957]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.22-14.21.35:590][957]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.22-14.21.35:647][957]LogDerivedDataCache: Shutdown
+[2017.11.22-14.21.35:647][957]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.22-14.21.35:647][957]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.22-14.21.35:653][957]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.22-14.21.35:654][957]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.22-14.21.35:654][957]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.22-14.21.35:654][957]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.22-14.21.35:655][957]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.22-14.21.35:655][957]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.22-14.21.35:655][957]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.22-14.21.35:655][957]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.22-14.21.35:656][957]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.22-14.21.35:657][957]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.22-14.21.35:657][957]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.22-14.21.35:657][957]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.22-14.21.35:657][957]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.22-14.21.35:659][957]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.22-14.21.35:661][957]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.22-14.21.35:661][957]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.11.22-14.21.35:662][957]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0CE17EC0-4141-FAB9-D48C-3F88B6B0393D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=bf8f24b84bdddc1c9262c29aea139831%7C0f348f9ab80f4a2b916a086970469570%7C850b0d08-644a-4091-ae4c-e6c8311f305e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.22-14.21.35:662][957]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0CE17EC0-4141-FAB9-D48C-3F88B6B0393D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=bf8f24b84bdddc1c9262c29aea139831%7C0f348f9ab80f4a2b916a086970469570%7C850b0d08-644a-4091-ae4c-e6c8311f305e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.22-14.21.35:686][957]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.22-14.21.35:688][957]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.22-14.21.35:689][957]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.22-14.21.35:689][957]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.22-14.21.35:690][957]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.22-14.21.35:690][957]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.22-14.21.35:690][957]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.22-14.21.35:690][957]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.22-14.21.35:695][957]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.22-14.21.35:696][957]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.22-14.21.35:696][957]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.22-14.21.35:696][957]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.22-14.21.35:696][957]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.22-14.21.35:696][957]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.22-14.21.35:696][957]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.22-14.21.35:696][957]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.22-14.21.35:696][957]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.22-14.21.35:697][957]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.22-14.21.35:697][957]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.22-14.21.35:700][957]LogExit: Exiting.
+[2017.11.22-14.21.35:714][957]Log file closed, 11/22/17 14:21:35
